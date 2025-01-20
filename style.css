@@ -1,0 +1,12 @@
+a {
+    color: gray;
+    text-decoration: none;
+}
+
+.dono {
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 40px;
+}
